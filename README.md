@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phuong-tieuthanh
-- 💻 I do typing code
+- 💻 I do putting code into editors
 
 <!---
 phuong-tieuthanh/phuong-tieuthanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
